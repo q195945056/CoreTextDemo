@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:ColumnarLayout/ColumnarLayout.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SimpleTextLabel/SimpleTextLabel.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:LayingOutaParagraph/LayingOutaParagraph.xcodeproj">
    </FileRef>
 </Workspace>
