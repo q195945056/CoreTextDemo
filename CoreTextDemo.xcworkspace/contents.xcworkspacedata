@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:DisplayingTextInANonrectangularRegion/DisplayingTextInANonrectangularRegion.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ApplyingAParagraphStyle/ApplyingAParagraphStyle.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:ManualLineBreaking/ManualLineBreaking.xcodeproj">
    </FileRef>
    <FileRef
